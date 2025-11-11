@@ -74,7 +74,7 @@ A backend REST API project built using Spring Boot for managing library operatio
 
 5.Access the API at http://localhost:8080/swagger-ui.html
 
-🧠 *ABOUT*
+🧠 **ABOUT**
 
 Developed as a Spring Boot project to manage and track library operations efficiently with RESTful APIs and relational database integration.
 
